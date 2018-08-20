@@ -14,4 +14,5 @@ Implementation of k means as a class in Python, depends on numpy and pandas.
 can be run in python in the following two lines:
 
 from Kmeans import Kmeans
+
 kmeans_clusters = Kmeans(X, k, tolerance).clusters)
